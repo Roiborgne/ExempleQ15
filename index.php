@@ -8,7 +8,6 @@ else
 
 switch ($case) {
     case "defaut":
-        include("vues/v_accueil.php");
+        include("src/Vue/Vue_AccueilCaseA.php");
         break;
-
 }

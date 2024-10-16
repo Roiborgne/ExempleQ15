@@ -1,20 +1,20 @@
 <?php return array(
     'root' => array(
-        'name' => 'vendor_name/cafe',
+        'name' => 'hamilcaron/tuto_mvc_1',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '6730ce219984a040a90bcbe3b0eb6e1f927e17f7',
-        'type' => 'library',
+        'reference' => 'd8ad16e748dc9f8a9d90d59377e5565fb362b122',
+        'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'vendor_name/cafe' => array(
+        'hamilcaron/tuto_mvc_1' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '6730ce219984a040a90bcbe3b0eb6e1f927e17f7',
-            'type' => 'library',
+            'reference' => 'd8ad16e748dc9f8a9d90d59377e5565fb362b122',
+            'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'dev_requirement' => false,

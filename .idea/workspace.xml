@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf53cfb7-2b2f-4e6a-aed0-8128ff9e6713" name="Changes" comment="je commit avec espoir que ça fonction après par magie" />
+    <list default="true" id="cf53cfb7-2b2f-4e6a-aed0-8128ff9e6713" name="Changes" comment="je commit avec espoir que ça fonction après par magie">
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vues/v_accueil.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +68,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Q15",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,6 +105,7 @@
       <workItem from="1728284016319" duration="636000" />
       <workItem from="1728295159757" duration="195000" />
       <workItem from="1728295582531" duration="529000" />
+      <workItem from="1729090401160" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="je commit avec espoir que ça fonction après par magie">
       <option name="closed" value="true" />
